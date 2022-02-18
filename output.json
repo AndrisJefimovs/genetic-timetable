@@ -1,0 +1,2274 @@
+{
+  "timetable": [
+    [
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "PHI",
+        "teacher": {
+          "id": 40,
+          "name": "Silva Carrillo",
+          "subjects": ["SOZ", "PHI", "GEO", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "MAT",
+        "teacher": {
+          "id": 10,
+          "name": "Bowen Henderson",
+          "subjects": ["MAT", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1,
+            1, 0
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "KUN",
+        "teacher": {
+          "id": 7,
+          "name": "Patricia Vaughn",
+          "subjects": ["SOZ", "PHI", "KUN"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "174"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "SPO",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "171"
+      }
+    ],
+    [
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "PHY",
+        "teacher": {
+          "id": 31,
+          "name": "Johanna Gordon",
+          "subjects": ["MUS", "SOZ", "PHY", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 45,
+          "name": "Jodi White",
+          "subjects": ["DEU", "INF"],
+          "availability": [
+            0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "109"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "CHE",
+        "teacher": {
+          "id": 42,
+          "name": "Sexton Johns",
+          "subjects": ["PHI", "CHE", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "341"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "REL",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "241"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "BIO",
+        "teacher": {
+          "id": 18,
+          "name": "Dunn Brennan",
+          "subjects": ["BIO", "FRA", "GES"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 5,
+          "name": "Louella Perkins",
+          "subjects": ["KUN", "MUS", "AST", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "328"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "DEU",
+        "teacher": {
+          "id": 20,
+          "name": "Mcdonald Collins",
+          "subjects": ["DEU", "GEO", "PHY", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "048"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "INF",
+        "teacher": {
+          "id": 6,
+          "name": "Young Sandoval",
+          "subjects": ["PHY", "SOZ", "INF", "INF"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "309"
+      }
+    ],
+    [
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "WPU",
+        "teacher": {
+          "id": 38,
+          "name": "Knox Ayers",
+          "subjects": ["INF", "WPU", "KUN"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "SPO",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "174"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "KUN",
+        "teacher": {
+          "id": 19,
+          "name": "Jaime Lyons",
+          "subjects": ["GEO", "PHI", "KUN"],
+          "availability": [
+            1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "AWT",
+        "teacher": {
+          "id": 32,
+          "name": "Franks Bruce",
+          "subjects": ["AWT", "SOZ"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "174"
+      }
+    ],
+    [
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "BIO",
+        "teacher": {
+          "id": 27,
+          "name": "Arnold Giles",
+          "subjects": ["INF", "WPU", "BIO", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+            0, 0
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "241"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "AWT",
+        "teacher": {
+          "id": 11,
+          "name": "Lilian Jones",
+          "subjects": ["AWT", "FRA", "PHY", "CHE"],
+          "availability": [
+            1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "048"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "048"
+      }
+    ],
+    [
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "MUS",
+        "teacher": {
+          "id": 31,
+          "name": "Johanna Gordon",
+          "subjects": ["MUS", "SOZ", "PHY", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "PHY",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "269"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 34,
+          "name": "Alice Torres",
+          "subjects": ["CHE", "ENG", "KUN"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "AST",
+        "teacher": {
+          "id": 16,
+          "name": "Mara Wilder",
+          "subjects": ["SOZ", "AST", "ENG"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "269"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 5,
+          "name": "Louella Perkins",
+          "subjects": ["KUN", "MUS", "AST", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "171"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "SPO",
+        "teacher": {
+          "id": 47,
+          "name": "Helen Meyers",
+          "subjects": ["PHI", "AST", "AWT", "SPO"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "035"
+      }
+    ],
+    [
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "WPU",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "SPO",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "CHE",
+        "teacher": {
+          "id": 25,
+          "name": "Fitzgerald Kline",
+          "subjects": ["CHE", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "078"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 25,
+          "name": "Fitzgerald Kline",
+          "subjects": ["CHE", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "174"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "MAT",
+        "teacher": {
+          "id": 10,
+          "name": "Bowen Henderson",
+          "subjects": ["MAT", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1,
+            1, 0
+          ]
+        },
+        "room": "328"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "PHI",
+        "teacher": {
+          "id": 19,
+          "name": "Jaime Lyons",
+          "subjects": ["GEO", "PHI", "KUN"],
+          "availability": [
+            1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "328"
+      }
+    ],
+    [
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "KUN",
+        "teacher": {
+          "id": 13,
+          "name": "Norton Perry",
+          "subjects": ["SOZ", "INF", "KUN"],
+          "availability": [
+            0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "WPU",
+        "teacher": {
+          "id": 0,
+          "name": "Savannah Sargent",
+          "subjects": ["BIO", "WPU", "WPU"],
+          "availability": [
+            1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "GES",
+        "teacher": {
+          "id": 23,
+          "name": "Sheena Trevino",
+          "subjects": ["GES", "GEO"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "268"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "INF",
+        "teacher": {
+          "id": 38,
+          "name": "Knox Ayers",
+          "subjects": ["INF", "WPU", "KUN"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "309"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "GEO",
+        "teacher": {
+          "id": 40,
+          "name": "Silva Carrillo",
+          "subjects": ["SOZ", "PHI", "GEO", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "BIO",
+        "teacher": {
+          "id": 1,
+          "name": "Sutton Hawkins",
+          "subjects": ["BIO", "KUN", "FRA", "INF"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "268"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "SPO",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "078"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "DEU",
+        "teacher": {
+          "id": 20,
+          "name": "Mcdonald Collins",
+          "subjects": ["DEU", "GEO", "PHY", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "341"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "INF",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "BIO",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "GES",
+        "teacher": {
+          "id": 23,
+          "name": "Sheena Trevino",
+          "subjects": ["GES", "GEO"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "174"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "MUS",
+        "teacher": {
+          "id": 33,
+          "name": "Kidd Hines",
+          "subjects": ["MUS", "CHE", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "268"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "GES",
+        "teacher": {
+          "id": 23,
+          "name": "Sheena Trevino",
+          "subjects": ["GES", "GEO"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "269"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "MUS",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "309"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "SPO",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "GES",
+        "teacher": {
+          "id": 24,
+          "name": "Frye Russell",
+          "subjects": ["GES", "SOZ"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "269"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "GEO",
+        "teacher": {
+          "id": 29,
+          "name": "Hooper Carpenter",
+          "subjects": ["GEO", "FRA", "AWT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "GES",
+        "teacher": {
+          "id": 18,
+          "name": "Dunn Brennan",
+          "subjects": ["BIO", "FRA", "GES"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "169"
+      }
+    ],
+    [
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "CHE",
+        "teacher": {
+          "id": 33,
+          "name": "Kidd Hines",
+          "subjects": ["MUS", "CHE", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "048"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "PHI",
+        "teacher": {
+          "id": 47,
+          "name": "Helen Meyers",
+          "subjects": ["PHI", "AST", "AWT", "SPO"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "109"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "BIO",
+        "teacher": {
+          "id": 18,
+          "name": "Dunn Brennan",
+          "subjects": ["BIO", "FRA", "GES"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "DEU",
+        "teacher": {
+          "id": 28,
+          "name": "Della Britt",
+          "subjects": ["AWT", "MUS", "DEU"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "241"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "GEO",
+        "teacher": {
+          "id": 23,
+          "name": "Sheena Trevino",
+          "subjects": ["GES", "GEO"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "109"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "PHY",
+        "teacher": {
+          "id": 9,
+          "name": "Yvette Taylor",
+          "subjects": ["INF", "PHY", "AWT", "MUS"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 28,
+          "name": "Della Britt",
+          "subjects": ["AWT", "MUS", "DEU"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "268"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "AWT",
+        "teacher": {
+          "id": 26,
+          "name": "Oliver Mercer",
+          "subjects": ["SPO", "ENG", "AWT", "PHI"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "MUS",
+        "teacher": {
+          "id": 33,
+          "name": "Kidd Hines",
+          "subjects": ["MUS", "CHE", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "CHE",
+        "teacher": {
+          "id": 33,
+          "name": "Kidd Hines",
+          "subjects": ["MUS", "CHE", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "109"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "218"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "GEO",
+        "teacher": {
+          "id": 29,
+          "name": "Hooper Carpenter",
+          "subjects": ["GEO", "FRA", "AWT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "109"
+      }
+    ],
+    [
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "GES",
+        "teacher": {
+          "id": 24,
+          "name": "Frye Russell",
+          "subjects": ["GES", "SOZ"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "SPO",
+        "teacher": {
+          "id": 47,
+          "name": "Helen Meyers",
+          "subjects": ["PHI", "AST", "AWT", "SPO"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 10,
+          "name": "Bowen Henderson",
+          "subjects": ["MAT", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1,
+            1, 0
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 25,
+          "name": "Fitzgerald Kline",
+          "subjects": ["CHE", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 33,
+          "name": "Kidd Hines",
+          "subjects": ["MUS", "CHE", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "PHY",
+        "teacher": {
+          "id": 20,
+          "name": "Mcdonald Collins",
+          "subjects": ["DEU", "GEO", "PHY", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "344"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "PHI",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "309"
+      }
+    ],
+    [
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "WPU",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 22,
+          "name": "Jerry Daniels",
+          "subjects": ["ENG", "DEU", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+            1, 1
+          ]
+        },
+        "room": "309"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "CHE",
+        "teacher": {
+          "id": 34,
+          "name": "Alice Torres",
+          "subjects": ["CHE", "ENG", "KUN"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "269"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "269"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "SOZ",
+        "teacher": {
+          "id": 40,
+          "name": "Silva Carrillo",
+          "subjects": ["SOZ", "PHI", "GEO", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "MAT",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "171"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "INF",
+        "teacher": {
+          "id": 45,
+          "name": "Jodi White",
+          "subjects": ["DEU", "INF"],
+          "availability": [
+            0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 25,
+          "name": "Fitzgerald Kline",
+          "subjects": ["CHE", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "AWT",
+        "teacher": {
+          "id": 11,
+          "name": "Lilian Jones",
+          "subjects": ["AWT", "FRA", "PHY", "CHE"],
+          "availability": [
+            1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 4,
+          "name": "Millie Walls",
+          "subjects": ["DEU", "KUN"],
+          "availability": [
+            0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            0, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "GES",
+        "teacher": {
+          "id": 23,
+          "name": "Sheena Trevino",
+          "subjects": ["GES", "GEO"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "309"
+      }
+    ],
+    [
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "ENG",
+        "teacher": {
+          "id": 16,
+          "name": "Mara Wilder",
+          "subjects": ["SOZ", "AST", "ENG"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "REL",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "KUN",
+        "teacher": {
+          "id": 19,
+          "name": "Jaime Lyons",
+          "subjects": ["GEO", "PHI", "KUN"],
+          "availability": [
+            1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "MAT",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "SOZ",
+        "teacher": {
+          "id": 31,
+          "name": "Johanna Gordon",
+          "subjects": ["MUS", "SOZ", "PHY", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "241"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "MUS",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "228"
+      }
+    ],
+    [
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "BIO",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "GEO",
+        "teacher": {
+          "id": 23,
+          "name": "Sheena Trevino",
+          "subjects": ["GES", "GEO"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "GES",
+        "teacher": {
+          "id": 18,
+          "name": "Dunn Brennan",
+          "subjects": ["BIO", "FRA", "GES"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 5,
+          "name": "Louella Perkins",
+          "subjects": ["KUN", "MUS", "AST", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      }
+    ],
+    [
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "REL",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "109"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 26,
+          "name": "Oliver Mercer",
+          "subjects": ["SPO", "ENG", "AWT", "PHI"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "PHI",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "MAT",
+        "teacher": {
+          "id": 46,
+          "name": "Meyers Mcconnell",
+          "subjects": ["MAT", "AWT", "REL"],
+          "availability": [
+            1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "REL",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "PHY",
+        "teacher": {
+          "id": 8,
+          "name": "Pruitt Carr",
+          "subjects": ["KUN", "PHY", "BIO"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+            0, 1
+          ]
+        },
+        "room": "268"
+      }
+    ],
+    [
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 39,
+          "name": "Isabella Morse",
+          "subjects": ["ENG", "CHE"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "268"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "BIO",
+        "teacher": {
+          "id": 18,
+          "name": "Dunn Brennan",
+          "subjects": ["BIO", "FRA", "GES"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "DEU",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 34,
+          "name": "Alice Torres",
+          "subjects": ["CHE", "ENG", "KUN"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "CHE",
+        "teacher": {
+          "id": 42,
+          "name": "Sexton Johns",
+          "subjects": ["PHI", "CHE", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "344"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "AWT",
+        "teacher": {
+          "id": 3,
+          "name": "Juanita Warren",
+          "subjects": ["BIO", "AWT"],
+          "availability": [
+            0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "174"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 26,
+          "name": "Oliver Mercer",
+          "subjects": ["SPO", "ENG", "AWT", "PHI"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "228"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 30,
+          "name": "Krystal Sims",
+          "subjects": ["CHE", "PHI", "AST", "DEU"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      }
+    ],
+    [
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "ENG",
+        "teacher": {
+          "id": 15,
+          "name": "Gena Stark",
+          "subjects": ["DEU", "ENG", "MUS"],
+          "availability": [
+            1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "228"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "PHY",
+        "teacher": {
+          "id": 35,
+          "name": "Kirk Cook",
+          "subjects": ["PHI", "PHY", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 30,
+          "name": "Krystal Sims",
+          "subjects": ["CHE", "PHI", "AST", "DEU"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "9a",
+        "grade": 9,
+        "subject": "ENG",
+        "teacher": {
+          "id": 39,
+          "name": "Isabella Morse",
+          "subjects": ["ENG", "CHE"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "PHY",
+        "teacher": {
+          "id": 11,
+          "name": "Lilian Jones",
+          "subjects": ["AWT", "FRA", "PHY", "CHE"],
+          "availability": [
+            1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      }
+    ],
+    [
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 10,
+          "name": "Bowen Henderson",
+          "subjects": ["MAT", "MAT"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1,
+            1, 0
+          ]
+        },
+        "room": "048"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "ENG",
+        "teacher": {
+          "id": 5,
+          "name": "Louella Perkins",
+          "subjects": ["KUN", "MUS", "AST", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1,
+            1, 1
+          ]
+        },
+        "room": "169"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "SPO",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "CHE",
+        "teacher": {
+          "id": 25,
+          "name": "Fitzgerald Kline",
+          "subjects": ["CHE", "ENG"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "287"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "SPO",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "035"
+      },
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "PHY",
+        "teacher": {
+          "id": 31,
+          "name": "Johanna Gordon",
+          "subjects": ["MUS", "SOZ", "PHY", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "094"
+      }
+    ],
+    [
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 20,
+          "name": "Mcdonald Collins",
+          "subjects": ["DEU", "GEO", "PHY", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "228"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "CHE",
+        "teacher": {
+          "id": 43,
+          "name": "Mathis Obrien",
+          "subjects": ["AWT", "FRA", "CHE"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+            1, 1
+          ]
+        },
+        "room": "174"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "INF",
+        "teacher": {
+          "id": 6,
+          "name": "Young Sandoval",
+          "subjects": ["PHY", "SOZ", "INF", "INF"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "REL",
+        "teacher": {
+          "id": 44,
+          "name": "Catalina Aguirre",
+          "subjects": ["WPU", "BIO", "REL"],
+          "availability": [
+            0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "309"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "DEU",
+        "teacher": {
+          "id": 12,
+          "name": "Jane Mccray",
+          "subjects": ["AWT", "SOZ", "DEU"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "268"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "SPO",
+        "teacher": {
+          "id": 47,
+          "name": "Helen Meyers",
+          "subjects": ["PHI", "AST", "AWT", "SPO"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1,
+            1, 0
+          ]
+        },
+        "room": "344"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "SOZ",
+        "teacher": {
+          "id": 6,
+          "name": "Young Sandoval",
+          "subjects": ["PHY", "SOZ", "INF", "INF"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "269"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "KUN",
+        "teacher": {
+          "id": 13,
+          "name": "Norton Perry",
+          "subjects": ["SOZ", "INF", "KUN"],
+          "availability": [
+            0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 36,
+          "name": "Pugh Glover",
+          "subjects": ["DEU", "SPO", "INF"],
+          "availability": [
+            1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0,
+            1, 0
+          ]
+        },
+        "room": "023"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 30,
+          "name": "Krystal Sims",
+          "subjects": ["CHE", "PHI", "AST", "DEU"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "124"
+      },
+      {
+        "class": "7a",
+        "grade": 7,
+        "subject": "MAT",
+        "teacher": {
+          "id": 14,
+          "name": "Butler Emerson",
+          "subjects": ["GEO", "PHI", "SPO", "MAT"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "069"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "PHY",
+        "teacher": {
+          "id": 20,
+          "name": "Mcdonald Collins",
+          "subjects": ["DEU", "GEO", "PHY", "FRA"],
+          "availability": [
+            0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "328"
+      },
+      {
+        "class": "7b",
+        "grade": 7,
+        "subject": "DEU",
+        "teacher": {
+          "id": 22,
+          "name": "Jerry Daniels",
+          "subjects": ["ENG", "DEU", "FRA"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0,
+            1, 1
+          ]
+        },
+        "room": "228"
+      }
+    ],
+    [
+      {
+        "class": "8a",
+        "grade": 8,
+        "subject": "ENG",
+        "teacher": {
+          "id": 26,
+          "name": "Oliver Mercer",
+          "subjects": ["SPO", "ENG", "AWT", "PHI"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "MUS",
+        "teacher": {
+          "id": 9,
+          "name": "Yvette Taylor",
+          "subjects": ["INF", "PHY", "AWT", "MUS"],
+          "availability": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "239"
+      },
+      {
+        "class": "8b",
+        "grade": 8,
+        "subject": "MUS",
+        "teacher": {
+          "id": 28,
+          "name": "Della Britt",
+          "subjects": ["AWT", "MUS", "DEU"],
+          "availability": [
+            1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+            1, 1
+          ]
+        },
+        "room": "048"
+      }
+    ]
+  ]
+}
